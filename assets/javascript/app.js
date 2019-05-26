@@ -1,5 +1,5 @@
 var panel = $('#quiz-area');
-var countStartNumber = 30;
+var countStartNumber = 31;
 
 
 ///////////////////////////////////////////////////////////////////////////////
@@ -33,17 +33,17 @@ var questions = [{
   question: "What was the first full length CGI movie?",
   answers: ["A Bug's Life", "Monsters Inc.", "Toy Story", "The Lion King"],
   correctAnswer: "Toy Story",
-  image:"assets/images/toystory.gif"
+  image:"https://rlv.zcache.com/green_triangle_sticker-r362eb7bbf8214e7f807a5864c56d9058_v9w05_8byvr_540.jpg"
 }, {
-  question: "Which of these is NOT a name of one of the Spice Girls?",
-  answers: ["Sporty Spice", "Fred Spice", "Scary Spice", "Posh Spice"],
+  question: " When all of the Avengers are bickering in the lab on the S.H.I.E.L.D helicarrier which Avenger is not present??",
+  answers: ["Captain America", "Black Widow", "Hawkeye", "Dr. Banner"],
   correctAnswer: "Fred Spice",
-  image:"assets/images/spicegirls.gif"
+  image:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/LACMTA_Square_Orange_Line.svg/1024px-LACMTA_Square_Orange_Line.svg.png"
 }, {
   question: "Which NBA team won the most titles in the 90s?",
   answers: ["New York Knicks", "Portland Trailblazers", "Los Angeles Lakers", "Chicago Bulls"],
   correctAnswer: "Chicago Bulls",
-  image:"assets/images/bulls.gif"
+  image:"assets/images/images3.png"
 }, {
   question: 'Which group released the hit song, "Smells Like Teen Spirit"?',
   answers: ["Nirvana", "Backstreet Boys", "The Offspring", "No Doubt"],
